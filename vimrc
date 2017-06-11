@@ -41,3 +41,5 @@ set encoding=utf-8
 set t_Co=256
 colors zenburn
 
+" ctrlp
+set runtimepath^=~/.vim/bundle/ctrlp.vim
